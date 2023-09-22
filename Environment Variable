@@ -1,4 +1,4 @@
 uses: denoland/deployctl@v1
 with:
-  project: Meting
+  project: https://meting-green.vercel.app/
   entrypoint: deno.js
