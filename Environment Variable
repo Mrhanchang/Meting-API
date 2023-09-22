@@ -1,0 +1,4 @@
+uses: denoland/deployctl@v1
+with:
+  project: Meting-API
+  entrypoint: deno.js
